@@ -1,4 +1,4 @@
-# 🍔 Bouncing Burger - Choey Mijuel Jaranilla Version 2.1
+# 🍔 Bouncing Burger - Choey Miguel Jaranilla Version 2.1
 
 A fun and simple desktop app built with **Python Tkinter** that animates a bouncing burger with a name label. The border color changes upon collision with the window edges, and you can pause/resume the animation with the spacebar.
 
